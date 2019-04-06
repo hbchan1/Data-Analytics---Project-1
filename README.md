@@ -11,3 +11,5 @@ NOTES ON WHAT TO ADD/MANIPULATE/CALCULATE:
 - Average (or median?) value for each quadrant & ward
 - Sale price by AYB, remodel date
 - Remove all rows with blank cells
+
+Per TripSavvy: "The median price in a particular neighborhood is generally regarded as the more useful of these two ways of looking at prices. That's because an average price can be significantly skewed by sales that are extremely high or extremely low."
